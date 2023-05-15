@@ -36,4 +36,4 @@ let deviderNumber = separableNumber.getRemainderOfDividing(by: 5)
 
 print("Remainder of dividing two numbers is -> \(deviderNumber)")
 
-// 
+
